@@ -1,0 +1,13 @@
+{
+  "name": "@fordi-org/retried",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "repository": "https://github.com/Fordi/retried",
+  "license": "ISC"
+}
